@@ -1,4 +1,4 @@
 # Write your #display_rainbow method here
 def display_rainbow(array)
-  puts "#{array[0].upcase}"
+  puts slice[0]#{array[0].upcase}"
 end
